@@ -1,1 +1,2 @@
-work-log.db
+work_log.db
+*.elc
